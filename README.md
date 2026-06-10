@@ -1,15 +1,14 @@
-**Enter the details of your work and file structure of each days here**
-Portfolio — TKMCE Summer Internship 2026
-Overview
+# Portfolio — TKMCE Summer Internship 2026
+
+## Overview
 This repository serves as a structured archive of Verilog HDL hardware designs, verification testbenches, and simulation results compiled during the 15-day industrial internship program hosted by TKM College of Engineering.
 
-Trainee Profile
-
-Name: Chinchina Anil
-Discipline: Electronics and Communication Engineering
-Institution: Government Engineering College Idukki (GECI)
-Development Environment: Xilinx Vivado Design Suite
-Target Language: Verilog HDL
+ **Trainee Profile**
+* **Name:** Chinchina Anil
+* **Discipline:** Electronics and Communication Engineering
+* **Institution:** Government Engineering College Idukki (GECI)
+* **Development Environment:** Xilinx Vivado Design Suite
+* **Target Language:** Verilog HDL
 
 ---
 
