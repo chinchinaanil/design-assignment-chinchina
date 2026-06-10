@@ -3,13 +3,9 @@
 ## Objective
 To design and simulate a BCD Adder using Verilog.
 
-## Files
-- design/top.v – Design code
-- tb/tb_top.v – Testbench
-- waveform.png – Simulation output
+## Contents
+This folder includes all the files related to the implementation and verification of the BCD Adder.
 
 ## Result
-The BCD Adder was designed and verified successfully.
+The design was successfully simulated and verified.
 
-## Output
-The screenshot folder contains the waveform .
