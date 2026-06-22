@@ -33,6 +33,34 @@ This repository serves as a structured archive of Verilog HDL hardware designs, 
 * **SR Flip-Flop Array:** Standard memory bistable cell simulation.
 * **D Flip-Flop Array:** Edge-triggered state element block processing.
 
+
+#### 📂  Day 3: FIFO Usecase,Sequence detector
+
+FIFO Usecase
+
+*Designed and verified an 8 \times 8 synchronous FIFO buffer in Verilog to manage data transfer rate-matching between a high-speed data source module and a slower processing destination module. 
+* Integrated status tracking flags (full and empty) alongside internal pointer controls to secure data integrity and buffer pipeline data bursts without loss over varying execution cycles.
+ 
+Sequence detector
+
+Constructed a finite state machine (FSM) to continuously monitor serial data streams for a targeted bit pattern.
+Evaluated overlapping or non-overlapping state sequence transitions to guarantee reliable pattern recognition.
+
+
+#### 📂  Day 4: Block memory generator
+
+
+Engineered a synchronous single-port RAM architecture featuring parameterized byte-wide data paths and independent address tracking.
+Integrated an asynchronous active-low reset loop to safely initialize the internal memory matrix configurations.
+
+
+#### 📂  Day 5:FIFO interfacing,BCD interfacing
+
+FIFO Interfacing
+Rectified status flag generation logic using a dynamic element counter to unlock 100% buffer capacity, resolving critical boundary alignment bugs between read/write pointer wraparounds.
+BCD Interfacing
+Engineered and integrated binary-coded decimal communication logic to facilitate synchronized, multi-digit numeric data conversions and stable display-driver interactions.
+
 ---
 
 ## Directory Infrastructure Layout
