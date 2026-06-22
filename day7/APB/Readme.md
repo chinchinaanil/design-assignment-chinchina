@@ -111,8 +111,46 @@ Connects:
 Manages communication using mailboxes.
 
 ---
+### 7.Interface
 
-### 7. Testbench
+
+
+The interface groups all APB signals and provides a connection between the DUT and verification environment.
+
+Signals:
+- PADDR
+- PSEL
+- PENABLE
+- PWRITE
+- PWDATA
+- PRDATA
+- PREADY
+- CLK
+- RESET
+
+Benefits:
+- Simplifies signal connections
+- Improves code readability
+- Reduces wiring complexity
+
+
+
+- ### 8. Transaction Class
+
+
+
+The transaction class represents a single APB transaction.
+
+
+
+
+Responsibilities:
+- Stores transaction information
+- Supports randomization
+- Transfers data between verification components
+
+
+### 8. Testbench
 
 
 
@@ -197,4 +235,3 @@ DUT → Monitor → Scoreboard
 - UVM-Based Verification Environment
 
 ---
-
