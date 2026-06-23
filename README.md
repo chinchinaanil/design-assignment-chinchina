@@ -61,6 +61,30 @@ Rectified status flag generation logic using a dynamic element counter to unlock
 BCD Interfacing
 Engineered and integrated binary-coded decimal communication logic to facilitate synchronized, multi-digit numeric data conversions and stable display-driver interactions.
 
+
+#### 📂  Day 6:Day 6: FIFO Transaction Class Development
+Overview
+
+On Day 6, a transaction class was developed for FIFO verification using SystemVerilog. The transaction class serves as a reusable object for modeling FIFO read and write operations and enables randomized test generation for functional verification.
+
+Features implemented: FIFO Transaction class generation,Read and write transaction modelling,Randomized Data Generation,Constraint based verification etc.
+
+#### 📂 Day 7:APB Protocol Design and Verification
+Overview
+
+On Day 7, an APB (Advanced Peripheral Bus) Slave was designed and verified using SystemVerilog. The implementation supports standard APB read and write transactions while adhering to AMBA APB protocol specifications.
+
+Design Features : 32-bit Address Bus,32-bit Data Bus,Internal Memory Array,Active-Low Reset,APB Read Support,APB Write Support,Always-Ready Slave Interface (PREADY = 1)
+
+Verification Features: APB Master Testbench Development,Read Transaction Verification,Write Transaction Verification,Functional Simulation,Waveform Analysis,Protocol Compliance Validation
+
+
+
+
+
+
+
+
 ---
 
 ## Directory Infrastructure Layout
