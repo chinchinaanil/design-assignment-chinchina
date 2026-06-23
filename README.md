@@ -69,7 +69,7 @@ On Day 6, a transaction class was developed for FIFO verification using SystemVe
 
 Features implemented: FIFO Transaction class generation,Read and write transaction modelling,Randomized Data Generation,Constraint based verification etc.
 
-#### 📂 Day 7:APB Protocol Design and Verification
+#### 📂   Day 7:APB Protocol Design and Verification
 Overview
 
 On Day 7, an APB (Advanced Peripheral Bus) Slave was designed and verified using SystemVerilog. The implementation supports standard APB read and write transactions while adhering to AMBA APB protocol specifications.
@@ -77,6 +77,13 @@ On Day 7, an APB (Advanced Peripheral Bus) Slave was designed and verified using
 Design Features : 32-bit Address Bus,32-bit Data Bus,Internal Memory Array,Active-Low Reset,APB Read Support,APB Write Support,Always-Ready Slave Interface (PREADY = 1)
 
 Verification Features: APB Master Testbench Development,Read Transaction Verification,Write Transaction Verification,Functional Simulation,Waveform Analysis,Protocol Compliance Validation
+
+
+####  📂 PROJECT : AXI DMA CONTROLLER
+
+           This project focuses on the design and verification of an AXI DMA Controller with Scatter-Gather support using SystemVerilog. The controller            enables efficient high-speed data transfers between memories with minimal CPU intervention by utilizing descriptor-based                                 transfer management.
+
+
 
 
 
