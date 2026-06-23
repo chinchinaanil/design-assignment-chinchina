@@ -92,6 +92,28 @@ TKMCE-internship/
 
 ---
 
+## Skills Developed
+
+Throughout this internship, the following technical skills were strengthened:
+
+- Verilog HDL Coding
+- RTL Design Methodology
+- Combinational Circuit Design
+- Sequential Circuit Design
+- Register and Counter Design
+- Flip-Flop Modeling
+- Testbench Development
+- Functional Simulation
+- Waveform Analysis
+- Hardware Verification Techniques
+- Xilinx Vivado Design Flow
+
+## Conclusion
+
+This internship provided valuable hands-on experience in digital design and verification using Verilog HDL. Through the successful implementation and testing of various digital circuits, a strong understanding of Register Transfer Level (RTL) design, simulation processes, and verification methodologies was developed.
+
+The practical exposure to industry-standard tools such as Xilinx Vivado enhanced proficiency in hardware design workflows, debugging, and waveform analysis. Overall, the internship established a solid foundation for advanced studies and future projects in Digital Electronics, FPGA Design, and VLSI Engineering.
+
 ## Core Toolchain & Competencies
 * **HDL Modeling:** Behavioral, Dataflow, and Structural Verilog descriptions.
 * **EDA Simulation:** Vivado Behavioral Simulator waveform validation.
