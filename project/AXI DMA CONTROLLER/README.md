@@ -12,7 +12,7 @@
 
 * Prayag V T (Team Lead)
 * Lasim
-* Chinchina
+* Chinchina Anil
 * Shafin V
 * Isac
 * Lakshmi
@@ -164,7 +164,7 @@ The proposed architecture provides a strong foundation for future enhancements s
 | ----------- | ------------------------------------------------------ |
 | Prayag V T  | Project planning and architecture design               |
 | Lasim       | Descriptor Fetch Engine design                         |
-| Chinchina   | Scatter-Gather FSM design                              |
+| Chinchina Anil   | Scatter-Gather FSM design                              |
 | Shafin V    | RTL integration, architectural analysis, documentation |
 | Isac        | AXI interface integration                              |
 | Lakshmi     | Documentation and report preparation                   |
